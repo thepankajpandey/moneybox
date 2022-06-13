@@ -31,7 +31,6 @@ class ProductsDetailActivity : AppCompatActivity() {
         }
     }
 
-
     private fun getLoginResponse(bearerToken: String) {
         val finalToken = "Bearer $bearerToken"
         viewModel.getAllProductDetails(
