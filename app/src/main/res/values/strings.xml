@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mini MB</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="account_email_id">jaeren+androidtest@moneyboxapp.com</string>
+    <string name="account_password">P455word12</string>
+    <string name="text_incorrect_email">Enter valid Email address !</string>
+    <string name="text_incorrect_password">Enter valid Password !</string>
+    <string name="text_login_error">Email or Password is wrong</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="text_login">LOG IN</string>
+
+    <string name="text_total_plan_value">Total Plan Value</string>
+    <string name="text_error">Oops! Something went wrong. Please try again later.</string>
+</resources>
